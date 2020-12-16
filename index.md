@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Xuewen Qian's Pages
 
 You can use the [editor on GitHub](https://github.com/qianxuewen/qianxuewen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am now a Ph.D. candidate at the L2S, CentraleSupelec/Paris Saclay University.
 
 ```markdown
 Syntax highlighted code block
