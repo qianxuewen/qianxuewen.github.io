@@ -1,37 +1,14 @@
 ## Welcome to Xuewen Qian's Pages
 
-You can use the [editor on GitHub](https://github.com/qianxuewen/qianxuewen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
 
-I am now a Ph.D. candidate at the L2S, CentraleSupelec/Paris Saclay University.
+I am now a Ph.D. candidate at the L2S, CentraleSupelec/Paris Saclay University, supervised by Prof. [Marco Di Renzo](https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en). Previously, I obtained my B.Sc. degree in 2014 and M.Sc. degree in 2017 at [Central South University](http://en.csu.edu.cn/) under the supervision of Prof. [Honggui Deng](https://www.researchgate.net/profile/Honggui_Deng2).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Recent News
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- I finished my Ph.D. defense on 16/12/2020. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianxuewen/qianxuewen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
