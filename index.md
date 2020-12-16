@@ -9,6 +9,6 @@ I am now a Ph.D. candidate at the L2S, [CentraleSupelec](https://www.centralesup
 ### Recent News
 
 
-- I finished my Ph.D. defense on 16/12/2020. 
+- I finished my Ph.D. defense on 16/12/2020. See slides 
 
 
