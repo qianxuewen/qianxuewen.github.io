@@ -10,5 +10,10 @@ I am now a Ph.D. candidate at the L2S, [CentraleSupelec](https://www.centralesup
 
 
 - I finished my Ph.D. defense on 16/12/2020. [Slides](./PDF/PHD_defense_slides_qxw.pdf)
+<details>
+  <summary>Click to expand!</summary>
 
+  - 29/11/2020. I submitted an IEEE WCL paper, titled "Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces".
+  - 30/08/2020. I submitted an IEEE Transaction on Communication paper, titled "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications".
 
+</details>
