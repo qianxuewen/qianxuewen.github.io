@@ -13,7 +13,7 @@ I am now a Ph.D. candidate at the L2S, [CentraleSupelec](https://www.centralesup
 <details>
   <summary>Click to expand!</summary>
 
-  - 29/11/2020. I submitted an IEEE WCL paper, titled "Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces". [PDF](./PDF/PHD_defense_slides_qxw.pdf)
-  - 30/08/2020. I submitted an IEEE Transaction on Communication paper, titled "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications". [PDF](./PDF/PHD_defense_slides_qxw.pdf)
+  - 29/11/2020. I submitted an IEEE WCL paper, titled "Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces". [PDF](./PDF/Journal/Kmeans_detection.pdf)
+  - 30/08/2020. I submitted an IEEE Transaction on Communication paper, titled "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications". [PDF](./PDF/Journal/Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces.pdf)
 
 </details>
