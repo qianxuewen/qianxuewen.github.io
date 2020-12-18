@@ -13,6 +13,7 @@ Other website [Google Scholar](https://scholar.google.com/citations?hl=en&user=-
   <summary>More!</summary>
 
   - 29/11/2020. I submitted an IEEE WCL paper, titled "Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces". [PDF](./PDF/Journal/Kmeans_detection.pdf)
+  
   - 30/08/2020. I submitted an IEEE Transaction on Communication paper, titled "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications". [PDF](./PDF/Journal/Mutual_Coupling_and_Unit_Cell_Aware_Optimization_for_Reconfigurable_Intelligent_Surfaces.pdf)
 
 </details>
