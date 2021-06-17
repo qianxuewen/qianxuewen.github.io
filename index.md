@@ -14,6 +14,7 @@ Other website [Google Scholar](https://scholar.google.com/citations?hl=en&user=-
 
 <details>
   <summary>More!</summary>
+  
   - I start my Postdoc from Jan. 2021.
 
   - I finished my Ph.D. defense on 16/12/2020. [Slides](./PDF/PHD_defense_slides_qxw.pdf)
