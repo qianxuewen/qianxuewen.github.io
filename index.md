@@ -8,7 +8,7 @@ Other website [Google Scholar](https://scholar.google.com/citations?hl=en&user=-
 ## Recent News
 
 
-- 17/6/2021. Thank MALCOLM EGAN's invitation, I gave a talk on my paper "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications" for CITI laboratory, a joint laboratory between Inria, University of Lyon and INSA Lyon in Lyon, France. [Slides](./PDF/Presentation/KMeans_MC_qxw.pdf)
+- 17/6/2021. Thank MALCOLM EGAN's invitation, I gave a talk titled "Advanced Detection Schemes for Molecular Communications based on K-Means Clustering Approach" for CITI laboratory, a joint laboratory between Inria, University of Lyon and INSA Lyon in Lyon, France. [Slides](./PDF/Presentation/KMeans_MC_qxw.pdf)
 
 - 14/2/2021. I authored a paper, titled "MIMO interference channels assisted by reconfigurable intelligent surfaces: Mutual coupling aware sum-rate optimization based on a mutual impedance channel model" which to be submitted to IEEE WCL.
 
