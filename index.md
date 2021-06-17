@@ -7,12 +7,17 @@ Other website [Google Scholar](https://scholar.google.com/citations?hl=en&user=-
 
 ## Recent News
 
-- I start my Postdoc from Jan. 2021.
 
-- I finished my Ph.D. defense on 16/12/2020. [Slides](./PDF/PHD_defense_slides_qxw.pdf)
+- 17/6/2021. Thank MALCOLM EGAN's invitation, I gave a talk on my paper "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications" for CITI laboratory, a joint laboratory between Inria, University of Lyon and INSA Lyon in Lyon, France. [Slides](./PDF/PHD_defense_slides_qxw.pdf)
+
+-14/2/2021. I authored a paper, titled "MIMO interference channels assisted by reconfigurable intelligent surfaces: Mutual coupling aware sum-rate optimization based on a mutual impedance channel model" which to be submitted to IEEE WCL.
+
 <details>
   <summary>More!</summary>
+  - I start my Postdoc from Jan. 2021.
 
+  - I finished my Ph.D. defense on 16/12/2020. [Slides](./PDF/PHD_defense_slides_qxw.pdf)
+  
   - 29/11/2020. I submitted an IEEE WCL paper, titled "Mutual Coupling and Unit Cell Aware Optimization for Reconfigurable Intelligent Surfaces". [PDF](./PDF/Journal/Kmeans_detection.pdf)
   
   - 30/08/2020. I submitted an IEEE Transaction on Communication paper, titled "K-Means Clustering-Aided Non-Coherent Detection for Molecular Communications". [PDF](./PDF/Journal/Mutual_Coupling_and_Unit_Cell_Aware_Optimization_for_Reconfigurable_Intelligent_Surfaces.pdf)
